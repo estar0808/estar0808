@@ -1,16 +1,19 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=6799FF&height=150&section=header&text=Hi,%20there!&nbsp;I'm%20Byeong%20Hyeon%20Han&fontColor=FFFFFF&fontSize=25)
 
-<!--
-**estar0808/estar0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🤷‍♂️ Who am I?</h3>      
+<p align="center">
+Junior college student at Gyeongsang National University
+<br/>Majoring in Computer Science
+<br/>Currently studying to be an Android Developer
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">💻 Languages and Tools?</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>
+<br/>
+<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=estar0808&show_icons=true&bg_color=FFFFFF&title_color=6799FF&text_color=000000&icon_color=6799FF"/>
+</div>
